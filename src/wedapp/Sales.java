@@ -5,4 +5,6 @@ public class Sales {
     // 20 % odd
 
     //...
+
+    // more sales items
 }
